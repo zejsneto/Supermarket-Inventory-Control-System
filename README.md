@@ -23,9 +23,3 @@ Login Screen
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=1572B6)&nbsp;
-
----
-
-
-
-
