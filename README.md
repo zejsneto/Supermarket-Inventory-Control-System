@@ -4,6 +4,19 @@
 
 A supermarket inventory control system developed with Java language, using object-oriented concepts, MVC pattern, GUI and PostgreSQL.
 
+The system has a login screen, but it is necessary to create the user 'admin' and its password (in this case, I chose '1234') in the PostgreSQL database to perform the first login.
+
+Only the admin user can register and deactivate market employees and generate transaction reports.
+
+Both the administrator and the registered and active employee will be able to
+register new products, product categories and move inventory.
+
+Both the administrator and the registered and active employee will be able to
+add, change or delete providers.
+
+Both the administrator and the employee will be able to consult the stock through
+of filters and view the product inventory.
+
 ---
 
 ## 👁️‍🗨️ Preview
