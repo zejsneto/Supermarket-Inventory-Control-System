@@ -29,6 +29,40 @@ Login Screen
 <p align="center" >
   <img width="40%" src="/repository-imgs/img02.png" />
 </p>
+<p align="center">
+Register a Transaction Screen
+</p>
+<p align="center" >
+  <img width="40%" src="/repository-imgs/img02.png" />
+</p>
+<p align="center">
+Employee Screen
+</p>
+<p align="center" >
+  <img width="40%" src="/repository-imgs/img02.png" />
+</p>
+<p align="center">
+Transaction Screen
+</p>
+<p align="center" >
+  <img width="40%" src="/repository-imgs/img02.png" />
+</p>
+<p align="center">
+Consult Transaction Screen (Query)
+</p>
+<p align="center" >
+  <img width="40%" src="/repository-imgs/img02.png" />
+</p>
+<p align="center">
+Supplier Screen
+</p>
+<p align="center" >
+  <img width="40%" src="/repository-imgs/img02.png" />
+</p>
+<p align="center">
+Products and Category Screen
+</p>
+
 
 ---
 
