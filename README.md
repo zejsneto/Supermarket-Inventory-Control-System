@@ -25,44 +25,60 @@ of filters and view the product inventory.
 </p>
 <p align="center">
 Login Screen
+</p><p align="center" >
+  <img width="90%" src="/repository-imgs/img02.png" />
+</p>
+<p align="center">
+Error to Login Screen
 </p>
 <p align="center" >
-  <img width="40%" src="/repository-imgs/img02.png" />
+  <img width="40%" src="/repository-imgs/img03.png" />
 </p>
 <p align="center">
 Register a Transaction Screen
 </p>
 <p align="center" >
-  <img width="40%" src="/repository-imgs/img02.png" />
+  <img width="40%" src="/repository-imgs/img04.png" />
 </p>
 <p align="center">
-Employee Screen
+Employee List Screen
 </p>
 <p align="center" >
-  <img width="40%" src="/repository-imgs/img02.png" />
+  <img width="40%" src="/repository-imgs/img05.png" />
 </p>
 <p align="center">
 Transaction Screen
 </p>
 <p align="center" >
-  <img width="40%" src="/repository-imgs/img02.png" />
+  <img width="40%" src="/repository-imgs/img06.png" />
+</p>
+<p align="center">
+Transaction report (.txt file) 
+</p>
+<p align="center" >
+  <img width="40%" src="/repository-imgs/img07.png" />
 </p>
 <p align="center">
 Consult Transaction Screen (Query)
 </p>
 <p align="center" >
-  <img width="40%" src="/repository-imgs/img02.png" />
+  <img width="40%" src="/repository-imgs/img08.png" />
 </p>
 <p align="center">
-Supplier Screen
+Supplier List Screen
 </p>
 <p align="center" >
-  <img width="40%" src="/repository-imgs/img02.png" />
+  <img width="40%" src="/repository-imgs/img09.png" />
+</p>
+<p align="center">
+Edit existing Supplier Screen
+</p>
+<p align="center" >
+  <img width="40%" src="/repository-imgs/img10.png" />
 </p>
 <p align="center">
 Products and Category Screen
 </p>
-
 
 ---
 
