@@ -6,7 +6,7 @@ A supermarket inventory control system developed with Java language, using objec
 
 The system has a login screen, but it is necessary to create the user 'admin' and its password (in this case, I chose '1234') in the PostgreSQL database to perform the first login.
 
-Only the admin user can register and deactivate market employees and generate transaction reports.
+Only the administrator can register and deactivate market employees and generate transaction reports (.txt or .csv file).
 
 Both the administrator and the registered and active employee will be able to
 register new products, product categories and move inventory.
